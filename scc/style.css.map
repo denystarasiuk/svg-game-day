@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/_global.scss"],"names":[],"mappings":"AAAA,EACI,sBACA,SACA","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/_global.scss","../sass/_animation.scss"],"names":[],"mappings":"AAAA,EACI,sBACA,SACA,UCHJ,WACI,iBACA,WACA,aACA,uBACA","file":"style.css"}
